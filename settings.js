@@ -2,24 +2,24 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //tarjeta v del propietario
-global.ytname = "YT:" //nombre de tu canal de yt
-global.socialm = "GitHub: SenseiOfc" //nombre de tu github o insta
+global.ytname = "https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v" //nombre de tu canal de yt
+global.socialm = "https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v" //nombre de tu github o insta
 global.location = "America, Lima-Peru" //tu ubicación
 
 //nuevo
-global.botname = 'Bottle' //nombre de tu bot
-global.ownernumber = '+51916738232' //número del propietario
-global.ownername = 'SenseiOfc' //nombre del propietario
-global.websitex = "https://youtu.be/"
-global.wagc = "https://www.instagram.com/erik_16_qm/"
+global.botname = 'onyx' //nombre de tu bot
+global.ownernumber = '51902247905' //número del propietario
+global.ownername = 'kenn' //nombre del propietario
+global.websitex = "https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v"
+global.wagc = "https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v"
 global.themeemoji = '🪀'
-global.wm = "Bot Inc."
-global.botscript = 'https://github.com' //enlace del script
+global.wm = "Bot onyx."
+global.botscript = 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v' //enlace del script
 global.packname = "Sticker By"
-global.author = "Bottle"
-global.creator = "51916738232@s.whatsapp.net"
+global.author = "onyx"
+global.creator = "51902247905@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["51916738232"] // Usuario Premium
+global.premium = ["51902247905"] // Usuario Premium
 global.hituet = 0
 
 //configuración del bot
